@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomToastClass</string>
+    <string name="toast_image">Toast Image</string>
+    <string name="hello_to_my_android_app">Hello to my android app</string>
+</resources>
